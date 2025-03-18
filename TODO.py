@@ -4,7 +4,7 @@
 
 import mysql.connector as mysql
 
-con = mysql.connect(host="localhost", user="root", passwd="Shrud@3174")
+con = mysql.connect(host="localhost", user="root", passwd="jagdish@845")
 
 cursor = con.cursor()
 
